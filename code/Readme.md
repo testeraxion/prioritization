@@ -1,4 +1,4 @@
-#Architecture Overview
+# Architecture Overview
 The framework is organized into modular components that handle specific responsibilities:
 main.py                             # Main orchestration
 ├── path_config.py                  # Path management
