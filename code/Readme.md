@@ -1,6 +1,5 @@
 # Architecture Overview
-
-'''
+```
 The framework is organized into modular components that handle specific responsibilities:
 
 main.py                             # Main orchestration
@@ -14,4 +13,5 @@ main.py                             # Main orchestration
 ├── prioritization.py               # Road prioritization
 ├── comparison_analysis.py          # Approach comparison
 └── visualization.py                # Results visualization
-'''
+
+```
